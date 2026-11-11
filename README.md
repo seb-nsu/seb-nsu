@@ -4,31 +4,31 @@ Project manager and product owner. I take products from idea to working version:
 
 For delivery, I work with AI agents (Claude Code) the way I would with a development team. I provide the concept, specification, backlog and acceptance criteria; the agents write the code; I review every result against the requirements. So the projects here mainly show how I run projects: concepts, decision logs, stage plans, reviews and open issues all live in each repository.
 
-### DerKurator AI · PMO digital twin
+### [DerKurator AI](https://github.com/seb-nsu/DerKuratorAI) · PMO digital twin
 
 Steering committees ask in plain language, "What happens if we put project X on hold for three months?", and get a decision paper with a GO / CONDITIONAL GO / NO-GO verdict, quantified impact and the chain of dependencies. Core principle: the AI neither decides nor calculates. Numbers come from deterministic tools, verdicts from a rule engine configured by the PMO. Focus: portfolio steering, decision papers, traceability
 
-### Ideenportal · Idea and innovation management
+### [Ideenportal](https://github.com/seb-nsu/Ideaportal) · Idea and innovation management
 
 Every idea gets an answer within a fixed deadline. AI agents prepare market and competitor analysis and the business case; people decide at three gates. Concept in three versions after a 360-degree review, a backlog of 146 stories across four releases, multi-tenant, with GDPR and works council requirements built in from the start. Focus: product concept, release planning, stakeholder requirements
 
-### Bitschmiede · Business simulation game, free to play
+### [Bitschmiede](https://github.com/seb-nsu/Bitschmiede) · Business simulation game, free to play
 
 Run a game and engine studio from 1980 to 2040. Built in stages against a binding specification with rule IDs; a reconciliation table resolves contradictions, and open questions are documented instead of decided silently. Balancing through automated simulation runs.
 
 Focus: specification, stage planning, acceptance
 
-### TimeLog · Automatic working time tracking
+### [TimeLog](https://github.com/seb-nsu/Timelog) · Automatic working time tracking
 
 Laptop and phone record working time via the office network and device start-up/shut-down; a shared rule set checks breaks and maximum working hours under German working time law. Privacy as a hard requirement: no location data, network identifiers stored only as hashes. Focus: business rules, data protection, multiple platforms
 
-### Digital-Helfer · Guides for older people
+### [Digital-Helfer](https://github.com/seb-nsu/Digital-Helfer) · Guides for older people ([live site](https://seb-nsu.github.io/Digital-Helfer/))
 
 A calm website in plain German: PC, smartphone, video calls, online safety, with a practice area. Built for my parents and refined based on their feedback. Focus: user-centred design, accessibility
 
 ### More
-- *Cloud Price Information:* fetch, compare and archive public list prices from six cloud providers
-- *Couch Quest:* concept and production of a 2D adventure game, with a decision log for every choice
+- [*Cloud Price Information*](https://github.com/seb-nsu/Cloud-Price-Information): fetch, compare and archive public list prices from nine cloud providers
+- [*Couch Quest*](https://github.com/seb-nsu/Max-against-the-world): concept and production of a 2D adventure game, with a decision log for every choice
 
 ## How I work
 - **Problem first, then solution.** Every project starts with a concept: target group, value, scope.
