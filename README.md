@@ -4,6 +4,8 @@ Project manager and product owner. I take products from idea to working version:
 
 For delivery, I work with AI agents (Claude Code) the way I would with a development team. I provide the concept, specification, backlog and acceptance criteria; the agents write the code; I review every result against the requirements. So the projects here mainly show how I run projects: concepts, decision logs, stage plans, reviews and open issues all live in each repository.
 
+**Case study:** [Seven products delivered with AI agents: what works and what doesn't](case-study.md) · [Deutsche Fassung](fallstudie.md)
+
 ### [DerKurator AI](https://github.com/seb-nsu/DerKuratorAI) · PMO digital twin
 
 Steering committees ask in plain language, "What happens if we put project X on hold for three months?", and get a decision paper with a GO / CONDITIONAL GO / NO-GO verdict, quantified impact and the chain of dependencies. Core principle: the AI neither decides nor calculates. Numbers come from deterministic tools, verdicts from a rule engine configured by the PMO. Focus: portfolio steering, decision papers, traceability
