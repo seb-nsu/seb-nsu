@@ -14,7 +14,7 @@ Steering committees ask in plain language, "What happens if we put project X on 
 
 Every idea gets an answer within a fixed deadline. AI agents prepare market and competitor analysis and the business case; people decide at three gates. Concept in three versions after a 360-degree review, a backlog of 146 stories across four releases, multi-tenant, with GDPR and works council requirements built in from the start. Focus: product concept, release planning, stakeholder requirements
 
-### [Bitschmiede](https://github.com/seb-nsu/Bitschmiede) · Business simulation game, free to play
+### [Bitschmiede](https://github.com/seb-nsu/Bitschmiede) · Business simulation game, free to play ([play in the browser](https://seb-nsu.github.io/Bitschmiede/))
 
 Run a game and engine studio from 1980 to 2040. Built in stages against a binding specification with rule IDs; a reconciliation table resolves contradictions, and open questions are documented instead of decided silently. Balancing through automated simulation runs.
 
@@ -29,6 +29,8 @@ Laptop and phone record working time via the office network and device start-up/
 A calm website in plain German: PC, smartphone, video calls, online safety, with a practice area. Built for my parents and refined based on their feedback. Focus: user-centred design, accessibility
 
 ### More
+- [*Backlog-Check*](https://github.com/seb-nsu/Backlog-Check): checks a backlog against fixed rules before stories go into delivery: missing or untestable acceptance criteria, stories that are too large, hidden dependencies, cycles, duplicates and contradictions. Every finding names the rule and the text it refers to. No AI, Python standard library only
+- [*Accessibility*](https://github.com/seb-nsu/Accessibility): accessibility test for websites against WCAG 2.2 AA, every finding mapped to EN 301 549. A rule scan (axe-core) plus scripts that take over much of the manual testing: keyboard, focus, reflow, text spacing, forms, contrast and dark mode
 - [*Cloud Price Information*](https://github.com/seb-nsu/Cloud-Price-Information): fetch, compare and archive public list prices from nine cloud providers
 - [*Couch Quest*](https://github.com/seb-nsu/Max-against-the-world): concept and production of a 2D adventure game, with a decision log for every choice
 
