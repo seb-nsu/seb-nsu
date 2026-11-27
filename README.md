@@ -34,6 +34,19 @@ A calm website in plain German: PC, smartphone, video calls, online safety, with
 - [*Cloud Price Information*](https://github.com/seb-nsu/Cloud-Price-Information): fetch, compare and archive public list prices from nine cloud providers
 - [*Couch Quest*](https://github.com/seb-nsu/Max-against-the-world): concept and production of a 2D adventure game, with a decision log for every choice
 
+### Private projects
+Not public, so no links. Happy to show them on request.
+
+- *Dirigent*: a thin orchestrator that runs work from idea to review across several AI models and tools. Workflow, state, quality gates and budget live in fixed code; the actual work is done by existing programs, and any model or tool can stand behind each step. A local overview page shows every project's status with buttons for pre-checks, plans, runs and budgets.
+- *Workflow Plugin*: a Claude Code plugin that organises AI work in teams of roles, from idea through backlog, development and acceptance to review. Each role runs as its own sub-agent with its own view, its own notes and defined write access. An entry check tells each phase what the project is still missing.
+- *Spürnase*: read and search access to the whole public web for AI agents, as a command-line tool and an MCP server. No API keys and no browser cookies; the generic path works for any page, and site adapters only add extra data. Results come back as uniform JSON with fallback chains.
+- *Project Map*: a knowledge graph across all my repositories. It shows purpose, stack and status of each project, how repositories depend on each other, which building blocks are built more than once, and where decisions (ADRs) and open questions sit. Updated automatically and viewable as an interactive map.
+- *CuraPlan*: project management for classic, agile and hybrid projects in one tool, derived from DerKurator AI. Rule-based decisions instead of AI gut feeling, time booking from the Outlook calendar, sprints with a definition of ready, and team capacity planning confirmed by line managers. Delivered in six releases.
+- *FOCUS Cockpit*: an enterprise FinOps platform that normalises cloud, SaaS, AI and data-centre costs to the FOCUS 1.4 standard. Cost allocation that always adds up, budgets with alerts, anomaly detection, forecasting and month-end close with four-eyes approval. Row-level permissions per company, division and cost centre.
+- *Bikerepair*: a mobile bike repair service with a customer app, a technician app and workshop software on one backend.
+- *Tagwerk*: tasks, habits, reminders and calendar on a single "Today" screen, where other tools spread them across separate apps; extra modules such as recipes or budget stay off until you need them, and it works without an account, with your data on your device.
+- *StilRat*: an AI hairstyle consultant for salons that shows customers three realistic, feasible styles on a tablet.
+
 ## How I work
 - **Problem first, then solution.** Every project starts with a concept: target group, value, scope.
 - **Decisions are written down.** With date and rationale, so it stays clear later why things are the way they are.
