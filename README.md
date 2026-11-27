@@ -44,7 +44,7 @@ Not public, so no links. Happy to show them on request.
 - *CuraPlan*: project management for classic, agile and hybrid projects in one tool, derived from DerKurator AI. Rule-based decisions instead of AI gut feeling, time booking from the Outlook calendar, sprints with a definition of ready, and team capacity planning confirmed by line managers. Delivered in six releases.
 - *FOCUS Cockpit*: an enterprise FinOps platform that normalises cloud, SaaS, AI and data-centre costs to the FOCUS 1.4 standard. Cost allocation that always adds up, budgets with alerts, anomaly detection, forecasting and month-end close with four-eyes approval. Row-level permissions per company, division and cost centre.
 - *Bikerepair*: a mobile bike repair service with a customer app, a technician app and workshop software on one backend.
-- *Tagwerk*: tasks, habits and your day on one screen, local-first in the browser or as a phone app ([open it](https://tagwerk.expo.app)).
+- *Tagwerk*: tasks, habits, reminders and calendar on a single "Today" screen, where other tools spread them across separate apps; extra modules such as recipes or budget stay off until you need them, and it works without an account, with your data on your device.
 - *StilRat*: an AI hairstyle consultant for salons that shows customers three realistic, feasible styles on a tablet.
 
 ## How I work
